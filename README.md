@@ -16,3 +16,5 @@ Main framework packages:
 Other relevant dependencies:
 - [IsaacSim](https://developer.nvidia.com/isaac-sim): GPU-accelerated robotics simulator for AI.
 - [horizon](https://github.com/ADVRHumanoids/horizon/tree/andrepatri_devel): a trajectory optimization tool, tailored to robotics and based on Casadi.
+
+Container deployment utils: [ibrido-docker](https://github.com/AndrePatri/ibrido-docker).
