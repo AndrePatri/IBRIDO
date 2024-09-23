@@ -9,7 +9,7 @@ A Software Ecosystem for Research in Reinforcement Learning-based Receding Horiz
 Main framework packages:
 - [LRHControl](https://github.com/AndrePatri/LRHControl): Learning-based Receding Horizon Control with Reinforcement Learning and Model Predictive Control.
 - [CoClusterBridge](https://github.com/AndrePatri/CoClusterBridge): tool for bridging a CPU-based control cluster with vectorized simulation environments.
-- [OmniRoboGym](https://github.com/AndrePatri/LRHControlEnvs): specific environment implementations for LRHControl package.
+- [LRHControlEnvs](https://github.com/AndrePatri/LRHControlEnvs): specific environment implementations for LRHControl package.
 - [SharsorIPCpp](https://github.com/AndrePatri/SharsorIPCpp): shared matrices built on top of POSIX-IPC and Eigen, shipped with python bindings and NumPy support.
 - [RHCViz](https://github.com/AndrePatri/RHCViz): Ros-powered minimal tool to visualize Receding Horizon Control solutions on RViz in realtime.
 
