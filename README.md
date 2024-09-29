@@ -4,7 +4,7 @@
 ![icon.svg](docs/images/logo.svg)
 
 </h2> -->
-A Software Ecosystem for Research in Reinforcement Learning-based Receding Horizon Control.
+A Software Ecosystem for Research in Reinforcement Learning-based Model Predictive Control.
 
 Main framework packages:
 - [LRHControl](https://github.com/AndrePatri/LRHControl): Learning-based Receding Horizon Control with Reinforcement Learning and Model Predictive Control.
