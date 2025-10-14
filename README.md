@@ -7,11 +7,11 @@
 A Software Ecosystem for Research in Reinforcement Learning-based Model Predictive Control.
 
 Main framework packages:
-- [LRHControl](https://github.com/AndrePatri/LRHControl): Learning-based Receding Horizon Control with Reinforcement Learning and Model Predictive Control.
-- [CoClusterBridge](https://github.com/AndrePatri/CoClusterBridge): tool for bridging a CPU-based control cluster with vectorized simulation environments.
-- [LRHControlEnvs](https://github.com/AndrePatri/LRHControlEnvs): specific environment implementations for LRHControl package.
+- [AugMPC](https://github.com/AndrePatri/AugMPC): Learning-based Receding Horizon Control with Reinforcement Learning and Model Predictive Control.
+- [MPCHive](https://github.com/AndrePatri/MPCHive): tool for bridging a CPU-based control cluster with vectorized simulation environments.
+- [AugMPCEnvs](https://github.com/AndrePatri/AugMPCEnvs): specific environment implementations for AugMPC package.
 - [EigenIPC](https://github.com/AndrePatri/EigenIPC): shared matrices built on top of POSIX-IPC and Eigen, shipped with python bindings and NumPy support.
-- [RHCViz](https://github.com/AndrePatri/RHCViz): Ros-powered minimal tool to visualize Receding Horizon Control solutions on RViz in realtime.
+- [MPCViz](https://github.com/AndrePatri/MPCViz): Ros-powered minimal tool to visualize Receding Horizon Control solutions on RViz in realtime.
 
 Other relevant dependencies:
 - [IsaacSim](https://developer.nvidia.com/isaac-sim): GPU-accelerated robotics simulator for AI. Employed for training 
