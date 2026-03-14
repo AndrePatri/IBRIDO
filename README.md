@@ -12,3 +12,17 @@ A software framework for research in Reinforcement Learning-Augmented Model Pred
 
 
 The framework can be installed, configured and experimented with using [ibrido-containers](https://github.com/AndrePatri/ibrido-containers). 
+
+## Associated publications
+
+```bibtex
+@misc{patrizi2026rlaugmentedmpcnongaitedlegged,
+      title={RL-Augmented MPC for Non-Gaited Legged and Hybrid Locomotion},
+      author={Andrea Patrizi and Carlo Rizzardo and Arturo Laurenzi and Francesco Ruscelli and Luca Rossini and Nikos G. Tsagarakis},
+      year={2026},
+      eprint={2603.10878},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2603.10878},
+}
+```
