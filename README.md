@@ -17,12 +17,13 @@ The framework can be installed, configured and experimented with using [ibrido-c
 
 ```bibtex
 @misc{patrizi2026rlaugmentedmpcnongaitedlegged,
-      title={RL-Augmented MPC for Non-Gaited Legged and Hybrid Locomotion},
-      author={Andrea Patrizi and Carlo Rizzardo and Arturo Laurenzi and Francesco Ruscelli and Luca Rossini and Nikos G. Tsagarakis},
-      year={2026},
-      eprint={2603.10878},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2603.10878},
+  author={Patrizi, Andrea and Rizzardo, Carlo and Laurenzi, Arturo and Ruscelli, Francesco and Rossini, Luca and Tsagarakis, Nikos G.},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={RL-Augmented MPC for Non-Gaited Legged and Hybrid Locomotion}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/LRA.2026.3675839},
 }
 ```
